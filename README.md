@@ -27,7 +27,7 @@ Cooming Soon
 
 ### Install
 * Clone the repo
-* > git@github.com:cherelemma/Hello-world.git
+ > git@github.com:cherelemma/Hello-world.git
 
 ### Usage
 

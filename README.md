@@ -10,7 +10,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+Cooming Soon
 
 
 ## Getting Started
@@ -19,41 +19,50 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+Cooming Soon
+
 ### Setup
 
+Cooming Soon
+
 ### Install
+* Clone the repo
+* > git@github.com:cherelemma/Hello-world.git
 
 ### Usage
 
+Cooming Soon
+
 ### Run tests
+
+Cooming Soon
 
 ### Deployment
 
+Cooming Soon
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/cherelemma)
+- Twitter: [@twitterhandle](https://twitter.com/Chere21271613)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/chere-lemma27211613/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+* [Readme-template](https://github.com/microverseinc/readme-template)
+* [Linter for HTML and CSS ](https://github.com/microverseinc/linters-config)
 
 ## 📝 License
 

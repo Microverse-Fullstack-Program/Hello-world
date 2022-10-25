@@ -16,6 +16,7 @@
   "bugs": {
     "url": "https://github.com/cherelemma/Hello-world/issues"
   },
+
   "homepage": "https://github.com/cherelemma/Hello-world#readme",
   "devDependencies": {
     "hint": "^7.1.3"

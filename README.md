@@ -13,27 +13,13 @@
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these steps.
 
-### Prerequisites
-
-Cooming Soon
-
-### Setup
-
-Cooming Soon
-
-### Install
-* 
-* Clone the repo
- > git@github.com:cherelemma/Hello-world.git
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+- [1] Use VScode: open terminal in VScode
+- [2] Navigate to the directory where you want clone the copy of this repository
+- [3] Create new directory [optional]
+- [4] Clone the repo using the below command
+ > git clone https://github.com/cherelemma/Hello-world.git
 
 ## Author
 

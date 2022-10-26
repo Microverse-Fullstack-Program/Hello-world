@@ -15,10 +15,10 @@
 
 To get a local copy up and running follow these steps.
 
-[1] Use VScode: open terminal in VScode
-[2] Navigate to the directory where you want clone the copy of this repository
-[3] Create new directory [optional]
-[4] Clone the repo using the below command
+1. Use VScode: open terminal in VScode
+2. Navigate to the directory where you want clone the copy of this repository
+3. Create new directory [optional]
+4. Clone the repo using the below command
  > git clone https://github.com/cherelemma/Hello-world.git
 
 ## Author
